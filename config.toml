@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ {name = "University of Texas at Austin", url = ""} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "me.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "wuxi.li@utexas.edu"
   address = "EER 4.852, University of Texas at Austin, Austin, TX, 78712, USA"
   office_hours = ""
