@@ -122,8 +122,9 @@
     "pub_in"          : "todaes",
     "year"            : 2017,
     "month"           : 12,
-    "hugo_suffix"     : "(Submitted)",
-    "cv_suffix"       : "(Submitted)"
+    "pdf_link"        : "pdf/TODAES17_UTPlaceF2_Li.pdf",
+    "hugo_suffix"     : "(**1st-Place Award of ISPD 2017 Contest**, Accepted)",
+    "cv_suffix"       : "(\\textbf{1st-Place Award of ISPD 2017 Contest}, Accepted)"
 }
 
 ]

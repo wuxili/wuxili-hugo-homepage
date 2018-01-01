@@ -10,7 +10,7 @@ weight = 5
 # List news
 [news]
   news = [
-    "Not too much ...",
+    "12/2017 : Our paper, *UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine*, is accepted by TODAES 2017.",
   ]
 
 # List your academic interests.
