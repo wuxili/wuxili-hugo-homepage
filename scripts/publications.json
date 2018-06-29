@@ -43,7 +43,7 @@
 },
 
 {
-    "name"            : "ISLPED2017_EMPlace_Ye",
+    "name"            : "ISLPED17_EMPlace_Ye",
     "type"            : "conference",
     "title"           : "Placement Mitigation Techniques for Power Grid Electromigration",
     "authors"         : ["Ye, Wei", "Lin, Yibo", "Xu, Xiaoqing", "Li, Wuxi", "Fu, Yiwei", "Sun, Yongsheng", "Zhan, Canhui", "Pan, David Z."],
@@ -66,6 +66,7 @@
     "month"           : 11,
     "day"             : [13, 16],
     "location"        : "Irvine, CA",
+    "pub_link"        : "https://ieeexplore.ieee.org/abstract/document/8203879/",
     "pdf_link"        : "pdf/ICCAD17_UTPlaceF3_Li.pdf",
     "slides_link"     : "pdf/ICCAD17_UTPlaceF3_Li_slides.pdf",
     "hugo_suffix"     : "(**Invited Paper**)",
@@ -73,7 +74,7 @@
 },
 
 {
-    "name"            : "ASPDAC2018_SplitManuf_Li",
+    "name"            : "ASPDAC18_SplitManuf_Li",
     "type"            : "conference",
     "title"           : "A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion",
     "authors"         : ["Li, Meng", "Yu, Bei", "Lin, Yibo", "Xu, Xiaoqing", "Li, Wuxi", "Pan, David Z."],
@@ -109,22 +110,31 @@
     "month"           : 7,
     "pub_link"        : "http://ieeexplore.ieee.org/document/7984833/",
     "pdf_link"        : "pdf/TCAD17_UTPlaceF_Li.pdf",
-    "hugo_suffix"     : "(Accepted)",
-    "cv_suffix"       : "(Accepted)",
     "hugo_projects"   : ["utplacef"]
 },
 
 {
-    "name"            : "TODAES_UTPlaceF2_Li",
+    "name"            : "TODAES18_UTPlaceF2_Li",
     "type"            : "journal",
     "title"           : "UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine",
     "authors"         : ["Li, Wuxi", "Lin, Yibo","Li, Meng", "Dhar, Shounak", "Pan, David Z."],
     "pub_in"          : "todaes",
-    "year"            : 2017,
-    "month"           : 12,
+    "year"            : 2018,
+    "month"           : 5,
+    "pub_link"        : "https://dl.acm.org/citation.cfm?id=3174849",
     "pdf_link"        : "pdf/TODAES17_UTPlaceF2_Li.pdf",
-    "hugo_suffix"     : "(**1st-Place Award of ISPD 2017 Contest**, Accepted)",
-    "cv_suffix"       : "(\\textbf{1st-Place Award of ISPD 2017 Contest}, Accepted)"
+    "hugo_suffix"     : "(**1st-Place Award of ISPD 2017 Contest**)",
+    "cv_suffix"       : "(\\textbf{1st-Place Award of ISPD 2017 Contest})"
+},
+
+{
+    "name"            : "TCAD18_SplitManuf_Li",
+    "type"            : "journal",
+    "title"           : "A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion",
+    "authors"         : ["Li, Meng", "Yu, Bei", "Lin, Yibo","Xu, Xiaoqing", "Li, Wuxi", "Pan, David Z."],
+    "pub_in"          : "tcad",
+    "year"            : 2018,
+    "month"           : 6
 }
 
 ]

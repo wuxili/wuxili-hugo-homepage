@@ -10,7 +10,8 @@ weight = 5
 # List news
 [news]
   news = [
-    "12/2017 : Our paper, *UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine*, is accepted by TODAES 2017.",
+    "6/2018 : My co-authored journal paper, *A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion*, is accepted by TCAD.",
+    "12/2017 : Our journal paper, *UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine*, is accepted by TODAES.",
   ]
 
 # List your academic interests.
@@ -48,4 +49,4 @@ I do research in Electronic Design Automation (EDA).
 I like developing tools to increase the productivity of circuit designers, improve the quality of modern VLSI systems, and overcome chip design challenges.
 
 I have won the two 1st-place awards of ISPD 2016 and 2017 FPGA placement contests hold by Xilinx.
-I have interned at Cadence, Apple, and ARM.
+I have interned at Xilinx, Cadence, Apple, and ARM.

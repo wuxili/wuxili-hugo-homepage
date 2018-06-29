@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2017.11.7)  1 JAN 2018 14:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2017.11.7)  29 JUN 2018 10:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -283,9 +283,9 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
 )
-(./doc/skills.tex) (./doc/award.tex)
+(./doc/skills.tex) (./doc/award.tex [2])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
- [2]
+ [3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 31.
  (./cv_address.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 31.
@@ -295,23 +295,23 @@ Package rerunfilecheck Info: File `cv_address.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 31.
  ) 
 Here is how much of TeX's memory you used:
- 5095 strings out of 493027
- 77136 string characters out of 6134069
- 167434 words of memory out of 5000000
+ 5096 strings out of 493027
+ 77142 string characters out of 6134069
+ 168434 words of memory out of 5000000
  8612 multiletter control sequences out of 15000+600000
  5068 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,4n,21p,268b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,4n,21p,268b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv_address.pdf (2 pages, 95644 bytes).
+Output written on cv_address.pdf (3 pages, 96727 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
+ 60 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
