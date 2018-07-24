@@ -134,7 +134,21 @@
     "authors"         : ["Li, Meng", "Yu, Bei", "Lin, Yibo","Xu, Xiaoqing", "Li, Wuxi", "Pan, David Z."],
     "pub_in"          : "tcad",
     "year"            : 2018,
-    "month"           : 6
+    "month"           : 6,
+    "hugo_suffix"     : "(**Accepted**)",
+    "cv_suffix"       : "(\\textbf{Accepted})"
+},
+
+{
+    "name"            : "TCAD18_FPGAPlace_Li",
+    "type"            : "journal",
+    "title"           : "A New Paradigm for FPGA Placement without Explicit Packing",
+    "authors"         : ["Li, Wuxi", "Pan, David Z."],
+    "pub_in"          : "tcad",
+    "year"            : 2018,
+    "month"           : 7,
+    "hugo_suffix"     : "(**Accepted**)",
+    "cv_suffix"       : "(\\textbf{Accepted})"
 }
 
 ]
