@@ -7,6 +7,6 @@ publication_types = [2]
 publication = "*ACM Transactions on Design Automation of Electronic Systems (TODAES)*"
 suffix = "(**1st-Place Award of ISPD 2017 Contest**)"
 title_href = "https://dl.acm.org/citation.cfm?id=3174849"
-url_pdf = "pdf/TODAES17_UTPlaceF2_Li.pdf"
+url_pdf = "pdf/TODAES18_UTPlaceF2_Li.pdf"
 selected = true
 +++

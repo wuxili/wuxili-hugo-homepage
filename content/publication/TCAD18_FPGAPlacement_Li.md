@@ -7,5 +7,6 @@ publication_types = [2]
 publication = "*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*"
 suffix = "(**Accepted**)"
 title_href = "javascript:void(0)"
+url_pdf = "pdf/TCAD18_FPGAPlacement_Li.pdf"
 selected = true
 +++

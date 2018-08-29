@@ -122,7 +122,7 @@
     "year"            : 2018,
     "month"           : 5,
     "pub_link"        : "https://dl.acm.org/citation.cfm?id=3174849",
-    "pdf_link"        : "pdf/TODAES17_UTPlaceF2_Li.pdf",
+    "pdf_link"        : "pdf/TODAES18_UTPlaceF2_Li.pdf",
     "hugo_suffix"     : "(**1st-Place Award of ISPD 2017 Contest**)",
     "cv_suffix"       : "(\\textbf{1st-Place Award of ISPD 2017 Contest})"
 },
@@ -140,13 +140,14 @@
 },
 
 {
-    "name"            : "TCAD18_FPGAPlace_Li",
+    "name"            : "TCAD18_FPGAPlacement_Li",
     "type"            : "journal",
     "title"           : "A New Paradigm for FPGA Placement without Explicit Packing",
     "authors"         : ["Li, Wuxi", "Pan, David Z."],
     "pub_in"          : "tcad",
     "year"            : 2018,
     "month"           : 7,
+    "pdf_link"        : "pdf/TCAD18_FPGAPlacement_Li.pdf",
     "hugo_suffix"     : "(**Accepted**)",
     "cv_suffix"       : "(\\textbf{Accepted})"
 }

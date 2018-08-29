@@ -10,6 +10,7 @@ weight = 5
 # List news
 [news]
   news = [
+    "8/2018 : I finished my internship at Xilinx and received the *3rd-Place Award* of the intern showcase presentation.",
     "7/2018 : Our journal paper, *A New Paradigm for FPGA Placement without Explicit Packing*, is accepted by TCAD.",
     "6/2018 : My co-authored journal paper, *A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion*, is accepted by TCAD.",
     "12/2017 : Our journal paper, *UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine*, is accepted by TODAES.",
