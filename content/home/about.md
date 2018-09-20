@@ -10,7 +10,8 @@ weight = 5
 # List news
 [news]
   news = [
-    "8/2018 : I finished my internship at Xilinx and received the *3rd-Place Award* of the intern showcase presentation.",
+    "8/2018 : I received the **George J. Heuer, Jr. Ph.D. Endowed Graduate Fellowship Fund** from the Cockrell School of Engineering, UT-Austin.",
+    "8/2018 : I finished my internship at Xilinx and received the **3rd-Place Award** of the intern showcase presentation.",
     "7/2018 : Our journal paper, *A New Paradigm for FPGA Placement without Explicit Packing*, is accepted by TCAD.",
     "6/2018 : My co-authored journal paper, *A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion*, is accepted by TCAD.",
     "12/2017 : Our journal paper, *UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine*, is accepted by TODAES.",
@@ -52,3 +53,5 @@ I like developing tools to increase the productivity of circuit designers, impro
 
 I have won the two 1st-place awards of ISPD 2016 and 2017 FPGA placement contests hold by Xilinx.
 I have interned at Xilinx, Cadence, Apple, and ARM.
+
+Here is <a href="pdf/PhD_Proposal.pdf">My Ph.D. Proposal</a>.
