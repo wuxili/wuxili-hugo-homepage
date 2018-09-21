@@ -54,4 +54,3 @@ I like developing tools to increase the productivity of circuit designers, impro
 I have won the two 1st-place awards of ISPD 2016 and 2017 FPGA placement contests hold by Xilinx.
 I have interned at Xilinx, Cadence, Apple, and ARM.
 
-#Here is <a href="pdf/PhD_Proposal.pdf">My Ph.D. Proposal</a>.
