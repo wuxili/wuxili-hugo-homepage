@@ -10,6 +10,7 @@ weight = 5
 # List news
 [news]
   news = [
+    "11/2018 : I won the **Silver Medal at ACM/SIGDA Student Research Competition** held at the ICCAD 2018.",
     "8/2018 : I received the **George J. Heuer, Jr. Ph.D. Endowed Graduate Fellowship Fund** from the Cockrell School of Engineering, UT-Austin.",
     "8/2018 : I finished my internship at Xilinx and received the **3rd-Place Award** of the intern showcase presentation.",
     "7/2018 : Our journal paper, *A New Paradigm for FPGA Placement without Explicit Packing*, is accepted by TCAD.",
