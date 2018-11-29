@@ -10,6 +10,7 @@ weight = 5
 # List news
 [news]
   news = [
+    "11/2018 : Our paper, *Simultaneous Placement and Clock Tree Construction for Modern FPGAs*, is accepted by FPGA'19.",
     "11/2018 : I won the **Silver Medal at ACM/SIGDA Student Research Competition** held at the ICCAD 2018.",
     "8/2018 : I received the **George J. Heuer, Jr. Ph.D. Endowed Graduate Fellowship Fund** from the Cockrell School of Engineering, UT-Austin.",
     "8/2018 : I finished my internship at Xilinx and received the **3rd-Place Award** of the intern showcase presentation.",
@@ -45,7 +46,7 @@ weight = 5
 
 # About me
 
-I am currently a Ph.D. student at the Department of Electrical and Computer Engineering, <a href="https://www.utexas.edu/">University of Texas at Austin</a>,
+I am currently a Ph.D. candidate at the Department of Electrical and Computer Engineering, <a href="https://www.utexas.edu/">University of Texas at Austin</a>,
 working with Prof. <a href="http://users.ece.utexas.edu/~dpan/">David Z. Pan</a>.
 Prior to coming to UT, I graduated from <a href="http://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> with B.S. in Microelectronics in 2013.
 

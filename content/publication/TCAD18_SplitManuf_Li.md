@@ -5,7 +5,6 @@ date = 2018-06-01
 authors = ["Meng Li", "Bei Yu", "Yibo Lin", "Xiaoqing Xu", "**Wuxi Li**", "David Z. Pan"]
 publication_types = [2]
 publication = "*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*"
-suffix = "(**Accepted**)"
-title_href = "javascript:void(0)"
+title_href = "https://ieeexplore.ieee.org/document/8419279/"
 selected = true
 +++

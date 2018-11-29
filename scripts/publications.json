@@ -3,6 +3,7 @@
 {
     "iccad"  : ["IEEE/ACM International Conference on Computer-Aided Design (ICCAD)", "ICCAD"],
     "aspdac" : ["IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)", "ASPDAC"],
+    "fpga"   : ["ACM International Symposium on Field-Programmable Gate Arrays (FPGA)", "FPGA"],
     "islped" : ["IEEE International Symposium on Low Power Electronics and Design (ISLPED)", "ISLPED"],
     "iscas"  : ["IEEE International Symposium on Circuits and Systems (ISCAS)", "ISCAS"],
     "tcad"   : ["IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)", "TCAD"],
@@ -86,7 +87,19 @@
     "pdf_link"        : "pdf/ASPDAC18_SplitManuf_Li.pdf"
 },
 
-
+{
+    "name"            : "FPGA19_ClockPlace_Li",
+    "type"            : "conference",
+    "title"           : "Simultaneous Placement and Clock Tree Construction for Modern FPGAs",
+    "authors"         : ["Li, Wuxi", "Yang, Stephen", "Dehkordi, Mehrdad E.", "Pan, David Z."],
+    "pub_in"          : "fpga",
+    "year"            : 2019,
+    "month"           : 2,
+    "day"             : [24, 26],
+    "location"        : "Seaside, CA",
+    "hugo_suffix"     : "(**Accepted**)",
+    "cv_suffix"       : "(\\textbf{Accepted})"
+},
 
 {
     "name"            : "ECST13_DualBandTrans_Li",
@@ -133,10 +146,9 @@
     "title"           : "A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion",
     "authors"         : ["Li, Meng", "Yu, Bei", "Lin, Yibo","Xu, Xiaoqing", "Li, Wuxi", "Pan, David Z."],
     "pub_in"          : "tcad",
+    "pub_link"        : "https://ieeexplore.ieee.org/document/8419279/",
     "year"            : 2018,
-    "month"           : 6,
-    "hugo_suffix"     : "(**Accepted**)",
-    "cv_suffix"       : "(\\textbf{Accepted})"
+    "month"           : 6
 },
 
 {
@@ -148,8 +160,7 @@
     "year"            : 2018,
     "month"           : 7,
     "pdf_link"        : "pdf/TCAD18_FPGAPlacement_Li.pdf",
-    "hugo_suffix"     : "(**Accepted**)",
-    "cv_suffix"       : "(\\textbf{Accepted})"
+    "pub_link"        : "https://ieeexplore.ieee.org/document/8500228/"
 }
 
 ]
