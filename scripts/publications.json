@@ -1,7 +1,7 @@
 [
 
 {
-    "dac"    : ["ACM/IEEE Design Automation Conference", "DAC"],
+    "dac"    : ["ACM/IEEE Design Automation Conference (DAC)", "DAC"],
     "iccad"  : ["IEEE/ACM International Conference on Computer-Aided Design (ICCAD)", "ICCAD"],
     "aspdac" : ["IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)", "ASPDAC"],
     "fpga"   : ["ACM International Symposium on Field-Programmable Gate Arrays (FPGA)", "FPGA"],
