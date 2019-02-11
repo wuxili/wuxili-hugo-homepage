@@ -1,6 +1,7 @@
 [
 
 {
+    "dac"    : ["ACM/IEEE Design Automation Conference", "DAC"],
     "iccad"  : ["IEEE/ACM International Conference on Computer-Aided Design (ICCAD)", "ICCAD"],
     "aspdac" : ["IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)", "ASPDAC"],
     "fpga"   : ["ACM International Symposium on Field-Programmable Gate Arrays (FPGA)", "FPGA"],
@@ -97,6 +98,21 @@
     "month"           : 2,
     "day"             : [24, 26],
     "location"        : "Seaside, CA",
+    "pdf_link"        : "pdf/FPGA19_ClockPlace_Li.pdf",
+    "hugo_suffix"     : "(**Accepted**)",
+    "cv_suffix"       : "(\\textbf{Accepted})"
+},
+
+{
+    "name"            : "DAC19_DREAMPlace_Lin",
+    "type"            : "conference",
+    "title"           : "DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement",
+    "authors"         : ["Lin, Yibo", "Dhar, Shounak", "Li, Wuxi", "Ren, Haoxing", "Khailany, Brucek", "Pan, David Z."],
+    "pub_in"          : "dac",
+    "year"            : 2019,
+    "month"           : 6,
+    "day"             : [2, 6],
+    "location"        : "Las Vegas, NV",
     "hugo_suffix"     : "(**Accepted**)",
     "cv_suffix"       : "(\\textbf{Accepted})"
 },
