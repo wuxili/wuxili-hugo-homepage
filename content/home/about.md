@@ -10,7 +10,7 @@ weight = 5
 # List news
 [news]
   news = [
-    "6/2018 : My co-authored paper, *DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement*, is accepted by DAC'19.",
+    "2/2019 : My co-authored paper, *DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement*, is accepted by DAC'19.",
     "11/2018 : Our paper, *Simultaneous Placement and Clock Tree Construction for Modern FPGAs*, is accepted by FPGA'19.",
     "11/2018 : I won the **Silver Medal at ACM/SIGDA Student Research Competition** held at the ICCAD 2018.",
     "8/2018 : I received the **George J. Heuer, Jr. Ph.D. Endowed Graduate Fellowship Fund** from the Cockrell School of Engineering, UT-Austin.",
