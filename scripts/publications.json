@@ -113,8 +113,24 @@
     "month"           : 6,
     "day"             : [2, 6],
     "location"        : "Las Vegas, NV",
-    "hugo_suffix"     : "(**Accepted**)",
-    "cv_suffix"       : "(\\textbf{Accepted})"
+    "hugo_suffix"     : "(**Best Paper Award**)",
+    "cv_suffix"       : "(\\textbf{Best Paper Award})",
+    "pub_link"        : "https://dl.acm.org/citation.cfm?id=3317803",
+    "pdf_link"        : "pdf/DAC19_DREAMPlace_Lin.pdf",
+    "slides_link"     : "pdf/DAC19_DREAMPlace_Lin_slides.pptx",
+    "code_link"       : "https://github.com/limbo018/DREAMPlace"
+},
+
+{
+    "name"            : "ICCAD19_elfPlace_Li",
+    "type"            : "conference",
+    "title"           : "elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs",
+    "authors"         : ["Li, Wuxi", "Lin, Yibo", "Pan, David Z."],
+    "pub_in"          : "iccad",
+    "year"            : 2019,
+    "month"           : 11,
+    "day"             : [4, 7],
+    "location"        : "Westminster, CO"
 },
 
 {

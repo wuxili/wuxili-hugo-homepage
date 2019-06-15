@@ -10,6 +10,8 @@ weight = 5
 # List news
 [news]
   news = [
+    "6/2019 : Our paper, *elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs*, is accepted by ICCAD'19.",
+    "6/2019 : My co-authored paper, *DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement*, received the **Best Paper Award at DAC'19**.",
     "2/2019 : My co-authored paper, *DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement*, is accepted by DAC'19.",
     "11/2018 : Our paper, *Simultaneous Placement and Clock Tree Construction for Modern FPGAs*, is accepted by FPGA'19.",
     "11/2018 : I won the **Silver Medal at ACM/SIGDA Student Research Competition** held at the ICCAD 2018.",
@@ -48,12 +50,12 @@ weight = 5
 # About me
 
 I am currently a Ph.D. candidate at the Department of Electrical and Computer Engineering, <a href="https://www.utexas.edu/">University of Texas at Austin</a>,
-working with Prof. <a href="http://users.ece.utexas.edu/~dpan/">David Z. Pan</a>.
+working with Prof. <a href="http://users.ece.utexas.edu/~dpan/">David Z. Pan</a> in the <a href="https://www.cerc.utexas.edu/utda/">UTDA Laboratory</a>.
 Prior to coming to UT, I graduated from <a href="http://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> with B.S. in Microelectronics in 2013.
 
 I do research in Electronic Design Automation (EDA).
 I like developing tools to increase the productivity of circuit designers, improve the quality of modern VLSI systems, and overcome chip design challenges.
 
-I have won the two 1st-place awards of ISPD 2016 and 2017 FPGA placement contests hold by Xilinx.
+I have received the Best Paper Award at DAC 2019, the Silver Medal in ACM Student Research Contest at ICCAD 2018, and the 1st-place awards in the FPGA placement contests of ISPD 2016 and 2017.
 I have interned at Xilinx, Cadence, Apple, and ARM.
 

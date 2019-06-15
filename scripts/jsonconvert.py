@@ -134,6 +134,8 @@ def genHugoPubMDFile(pub, cjDict, fileName):
         ofs.write("url_pdf = " + quote(pub["pdf_link"]) + "\n")
     if pubHasEntry(pub, "slides_link"):
         ofs.write("url_slides = " + quote(pub["slides_link"]) + "\n")
+    if pubHasEntry(pub, "code_link"):
+        ofs.write("url_code = " + quote(pub["code_link"]) + "\n")
     if pubHasEntry(pub, "hugo_projects"):
         ofs.write("projects = [")
         sep = ""
