@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.14)  15 JUN 2019 17:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.14)  11 AUG 2019 21:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -319,14 +319,15 @@ LaTeX Info: Redefining \nameref on input line 22.
 \makeMPintoPDFobject=\count109
 \everyMPtoPDFconversion=\toks19
 )
-Overfull \hbox (30.0pt too wide) in paragraph at lines 22--22
-[] 
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 22.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 22--22
+[] 
+ []
+
 (./doc/interest.tex) (./doc/education.tex) (./doc/experience.tex)
 (./doc/publication.tex [1
 
@@ -353,7 +354,7 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Here is how much of TeX's memory you used:
  6330 strings out of 492639
  92612 string characters out of 6129301
- 199434 words of memory out of 5000000
+ 199448 words of memory out of 5000000
  10158 multiletter control sequences out of 15000+600000
  5068 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -364,7 +365,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
 r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv.pdf (3 pages, 96102 bytes).
+Output written on cv.pdf (3 pages, 95166 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream

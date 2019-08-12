@@ -1,6 +1,6 @@
 baseurl = "https://wuxili.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Wuxi Li"
-copyright = "&copy; 2018 Wuxi Li"
+copyright = "&copy; 2019 Wuxi Li"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -40,11 +40,11 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Wuxi Li"
-  role = "Ph.D. Candidate"
+  role = "Staff Software Engineer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ {name = "University of Texas at Austin", url = ""} ]
+  organizations = [ {name = "Xilinx", url = ""} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "me.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

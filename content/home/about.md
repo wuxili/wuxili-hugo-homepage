@@ -49,12 +49,14 @@ weight = 5
 
 # About me
 
-I am currently a Ph.D. candidate at the Department of Electrical and Computer Engineering, <a href="https://www.utexas.edu/">University of Texas at Austin</a>,
-working with Prof. <a href="http://users.ece.utexas.edu/~dpan/">David Z. Pan</a> in the <a href="https://www.cerc.utexas.edu/utda/">UTDA Laboratory</a>.
-Prior to coming to UT, I graduated from <a href="http://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> with B.S. in Microelectronics in 2013.
+I am a Staff Software Engineer in the Vivado Implementation Team at <a href="https://www.xilinx.com/">Xilinx</a>.
+Prior to joining Xilinx, I received my Ph.D. degree in Electrical and Computer Engineering from the <a href="https://www.utexas.edu/">University of Texas at Austin</a> in 2019,
+supervised by Prof. <a href="http://users.ece.utexas.edu/~dpan/">David Z. Pan</a> in the <a href="https://www.cerc.utexas.edu/utda/">UTDA Laboratory</a>.
+I received my B.S. degree in Microelectronics from <a href="http://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2013.
 
 I do research in Electronic Design Automation (EDA).
 I like developing tools to increase the productivity of circuit designers, improve the quality of modern VLSI systems, and overcome chip design challenges.
+My Ph.D. dissertation was on <a href="pdf/dissertation.pdf">Placement Algorithms for Large-Scale Heterogeneous FPGAs</a>.
 
 I have received the Best Paper Award at DAC 2019, the Silver Medal in ACM Student Research Contest at ICCAD 2018, and the 1st-place awards in the FPGA placement contests of ISPD 2016 and 2017.
 I have interned at Xilinx, Cadence, Apple, and ARM.
