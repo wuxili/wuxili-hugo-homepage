@@ -130,7 +130,8 @@
     "year"            : 2019,
     "month"           : 11,
     "day"             : [4, 7],
-    "location"        : "Westminster, CO"
+    "location"        : "Westminster, CO",
+    "pdf_link"        : "pdf/ICCAD19_elfPlace_Li.pdf"
 },
 
 {

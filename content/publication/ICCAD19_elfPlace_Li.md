@@ -6,5 +6,6 @@ authors = ["**Wuxi Li**", "Yibo Lin", "David Z. Pan"]
 publication_types = [1]
 publication = "*IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*"
 title_href = "javascript:void(0)"
+url_pdf = "pdf/ICCAD19_elfPlace_Li.pdf"
 selected = true
 +++
