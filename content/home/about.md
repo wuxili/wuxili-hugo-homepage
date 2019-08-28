@@ -10,6 +10,8 @@ weight = 5
 # List news
 [news]
   news = [
+    "8/2019 : My co-authored paper, *High-Definition Routing Congestion Prediction for Large-Scale FPGAs*, is accepted by ASPDAC'20.",
+    "8/2019 : My co-authored paper, *S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity*, is accepted by ASPDAC'20.",
     "6/2019 : Our paper, *elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs*, is accepted by ICCAD'19.",
     "6/2019 : My co-authored paper, *DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement*, received the **Best Paper Award at DAC'19**.",
     "2/2019 : My co-authored paper, *DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement*, is accepted by DAC'19.",

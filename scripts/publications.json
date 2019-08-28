@@ -135,6 +135,30 @@
 },
 
 {
+    "name"            : "ASPDAC20_RouteCongEst_Alawieh",
+    "type"            : "conference",
+    "title"           : "High-Definition Routing Congestion Prediction for Large-Scale FPGAs",
+    "authors"         : ["Alawieh, Mohamed B.", "Li, Wuxi", "Lin, Yibo", "Singhal, Love", "Iyer, Mahesh", "Pan, David Z."],
+    "pub_in"          : "aspdac",
+    "year"            : 2020,
+    "month"           : 1,
+    "day"             : [13, 16],
+    "location"        : "Beijing, China"
+},
+
+{
+    "name"            : "ASPDAC20_S3DET_Liu",
+    "type"            : "conference",
+    "title"           : "S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity",
+    "authors"         : ["Liu, Mingjie", "Li, Wuxi", "Zhu, Keren", "Xu, Biying", "Lin, Yibo", "Shen, Linxiao", "Tang, Xiyuan", "Sun, Nan", "Pan, David Z."],
+    "pub_in"          : "aspdac",
+    "year"            : 2020,
+    "month"           : 1,
+    "day"             : [13, 16],
+    "location"        : "Beijing, China"
+},
+
+{
     "name"            : "ECST13_DualBandTrans_Li",
     "type"            : "journal",
     "title"           : "An Optimization Procedure for Coil Design in a Dual Band Wireless Power and Data Transmission System",
