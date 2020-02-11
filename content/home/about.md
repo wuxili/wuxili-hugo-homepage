@@ -10,6 +10,8 @@ weight = 5
 # List news
 [news]
   news = [
+    "2/2020 : My co-authored paper, *FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization*, is accepted by DAC'20.",
+    "1/2020 : My co-authored paper, *ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs*, is accepted by TCAD.",
     "8/2019 : My co-authored paper, *High-Definition Routing Congestion Prediction for Large-Scale FPGAs*, is accepted by ASPDAC'20.",
     "8/2019 : My co-authored paper, *S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity*, is accepted by ASPDAC'20.",
     "6/2019 : Our paper, *elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs*, is accepted by ICCAD'19.",

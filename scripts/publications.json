@@ -131,6 +131,9 @@
     "month"           : 11,
     "day"             : [4, 7],
     "location"        : "Westminster, CO",
+    "hugo_suffix"     : "(**Best-in-Track Paper**)",
+    "cv_suffix"       : "(\\textbf{Best-in-Track Paper})",
+    "pub_link"        : "https://ieeexplore.ieee.org/document/8942075",
     "pdf_link"        : "pdf/ICCAD19_elfPlace_Li.pdf",
     "slides_link"     : "pdf/ICCAD19_elfPlace_Li_slides.pdf"
 },
@@ -145,6 +148,18 @@
     "month"           : 1,
     "day"             : [13, 16],
     "location"        : "Beijing, China"
+},
+
+{
+    "name"            : "DAC20_ONNFLOPS_Gu",
+    "type"            : "conference",
+    "title"           : "FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization",
+    "authors"         : ["Gu, Jiaqi", "Zhao, Zheng", "Feng, Chenghao", "Li, Wuxi", "Chen, Ray T.", "Pan, David Z."],
+    "pub_in"          : "dac",
+    "year"            : 2020,
+    "month"           : 7,
+    "day"             : [19, 23],
+    "location"        : "San Francisco, CA"
 },
 
 {
@@ -219,6 +234,17 @@
     "month"           : 7,
     "pdf_link"        : "pdf/TCAD18_FPGAPlacement_Li.pdf",
     "pub_link"        : "https://ieeexplore.ieee.org/document/8500228/"
+},
+
+{
+    "name"            : "TCAD20_ABCDPlace_Lin",
+    "type"            : "journal",
+    "title"           : "ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs",
+    "authors"         : ["Lin, Yibo", "Li, Wuxi", "Gu, Jiaqi", "Ren, Haoxing", "Khailany, Brucek", "Pan, David Z."],
+    "pub_in"          : "tcad",
+    "year"            : 2020,
+    "month"           : 2,
+    "pub_link"        : "https://ieeexplore.ieee.org/document/8982049"
 }
 
 ]
