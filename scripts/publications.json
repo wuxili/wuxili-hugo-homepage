@@ -259,6 +259,19 @@
     "year"            : 2021,
     "month"           : 1,
     "pub_link"        : "https://ieeexplore.ieee.org/abstract/document/9330804"
+},
+
+{
+    "name"            : "TCAD20_DREAMPlace_Lin",
+    "type"            : "journal",
+    "title"           : "DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement",
+    "authors"         : ["Lin, Yibo", "Jiang, Zixuan", "Gu, Jiaqi", "Li, Wuxi", "Dhar, Shounak", "Ren, Haoxing", "Khailany, Brucek", "Pan, David Z."],
+    "pub_in"          : "tcad",
+    "year"            : 2020,
+    "month"           : 6,
+    "hugo_suffix"     : "(**Best Paper Award**)",
+    "cv_suffix"       : "(\\textbf{Best Paper Award})",
+    "pub_link"        : "https://ieeexplore.ieee.org/abstract/document/9122053"
 }
 
 ]
