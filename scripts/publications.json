@@ -4,6 +4,7 @@
     "dac"    : ["ACM/IEEE Design Automation Conference (DAC)", "DAC"],
     "iccad"  : ["IEEE/ACM International Conference on Computer-Aided Design (ICCAD)", "ICCAD"],
     "aspdac" : ["IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)", "ASPDAC"],
+    "ispd"   : ["ACM International Symposium on Physical Design", "ISPD"],
     "fpga"   : ["ACM International Symposium on Field-Programmable Gate Arrays (FPGA)", "FPGA"],
     "islped" : ["IEEE International Symposium on Low Power Electronics and Design (ISLPED)", "ISLPED"],
     "iscas"  : ["IEEE International Symposium on Circuits and Systems (ISCAS)", "ISCAS"],
@@ -175,6 +176,18 @@
     "day"             : [13, 16],
     "location"        : "Beijing, China",
     "pub_link"        : "https://ieeexplore.ieee.org/document/9045109"
+},
+
+{
+    "name"            : "ISPD2022_GP2DRegularity_Fang",
+    "type"            : "conference",
+    "title"           : "Global Placement Exploiting Soft 2D Regularity",
+    "authors"         : ["Fang, Donghao", "Zhang, Boyang", "Hu, Hailiang", "Li, Wuxi", "Yuan, Bo", "Hu, Jiang"],
+    "pub_in"          : "ispd",
+    "year"            : 2022,
+    "month"           : 3,
+    "day"             : [27, 30],
+    "pub_link"        : "https://dl.acm.org/doi/10.1145/3505170.3506723"
 },
 
 {
