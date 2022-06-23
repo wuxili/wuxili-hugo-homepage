@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.14)  31 MAY 2022 18:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.14)  23 JUN 2022 09:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -331,8 +331,8 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 22--22
 (./doc/interest.tex) (./doc/experience.tex) (./doc/education.tex)
 (./doc/publication.tex [1
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./doc
-/patent.tex [2]) (./doc/service.tex
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]) (.
+/doc/patent.tex) (./doc/service.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
@@ -340,9 +340,9 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
-) (./doc/award.tex) (./doc/skills.tex)
+) (./doc/award.tex) (./doc/skills.tex [3])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 38.
- [3]
+ [4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 38.
  (./cv.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 38.
@@ -351,13 +351,13 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 6333 strings out of 492639
- 92648 string characters out of 6129301
- 199448 words of memory out of 5000000
+ 6334 strings out of 492639
+ 92654 string characters out of 6129301
+ 199471 words of memory out of 5000000
  10158 multiletter control sequences out of 15000+600000
  5068 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,5n,45p,957b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,6n,45p,957b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
@@ -365,10 +365,10 @@ usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
 local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv.pdf (3 pages, 102106 bytes).
+Output written on cv.pdf (4 pages, 102440 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 92 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
