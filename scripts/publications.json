@@ -10,7 +10,8 @@
     "iscas"  : ["IEEE International Symposium on Circuits and Systems (ISCAS)", "ISCAS"],
     "tcad"   : ["IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)", "TCAD"],
     "todaes" : ["ACM Transactions on Design Automation of Electronic Systems (TODAES)", "TODAES"],
-    "ecst"   : ["ECS Transactions (ECST)", "ECST"]
+    "ecst"   : ["ECS Transactions (ECST)", "ECST"],
+    "gtac"   : ["AMD Global Technical Authors Conference (GTAC)", "GTAC"]
 },
 
 {
@@ -188,6 +189,28 @@
     "month"           : 3,
     "day"             : [27, 30],
     "pub_link"        : "https://dl.acm.org/doi/10.1145/3505170.3506723"
+},
+
+{
+    "name"            : "GTAC2022_ePlaceRegConstr_Li",
+    "type"            : "conference",
+    "title"           : "A Comprehensive Region Constraint Support in Electrostatics-Based Non-linear Global Placement",
+    "authors"         : ["Li, Wuxi"],
+    "pub_in"          : "gtac",
+    "year"            : 2022,
+    "month"           : 11,
+    "hugo_suffix"     : "(**Best Paper Nomination**)",
+    "cv_suffix"       : "(\\textbf{Best Paper Nomination})"
+},
+
+{
+    "name"            : "GTAC2022_DiffTimer_Li",
+    "type"            : "conference",
+    "title"           : "Calibration-Based Differentiable Timing Optimization in Non-linear Global Placement",
+    "authors"         : ["Li, Wuxi"],
+    "pub_in"          : "gtac",
+    "year"            : 2022,
+    "month"           : 11
 },
 
 {
