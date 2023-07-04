@@ -11,7 +11,8 @@
     "tcad"   : ["IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)", "TCAD"],
     "todaes" : ["ACM Transactions on Design Automation of Electronic Systems (TODAES)", "TODAES"],
     "ecst"   : ["ECS Transactions (ECST)", "ECST"],
-    "gtac"   : ["AMD Global Technical Authors Conference (GTAC)", "GTAC"]
+    "gtac"   : ["AMD Global Technical Authors Conference (GTAC)", "GTAC"],
+    "trets"  : ["ACM Transactions on Reconfigurable Technology and Systems (TRETS)", "TRETS"]
 },
 
 {
@@ -308,6 +309,17 @@
     "hugo_suffix"     : "(**Best Paper Award**)",
     "cv_suffix"       : "(\\textbf{Best Paper Award})",
     "pub_link"        : "https://ieeexplore.ieee.org/abstract/document/9122053"
+},
+
+{
+    "name"            : "TRETS_RaoudStream2_Guo",
+    "type"            : "journal",
+    "title"           : "RapidStream 2.0: Automated Parallel Implementation of Latency Insensitive FPGA Designs Through Partial Reconfiguration",
+    "authors"         : ["Guo, Licheng", "Maidee, Pongstorn", "Zhou, Yun", "Lavin, Chris", "Hung, Eddie", "Li, Wuxi", "Lau, Jason", "Qiao, Weikang", "Chi, Yuze", "Song, Linghao ", "Xiao, Yuanlong", "Kaviani, Alireza", "Zhang, Zhiru", "Cong, Jason"],
+    "pub_in"          : "trets",
+    "year"            : 2023,
+    "month"           : 4,
+    "pub_link"        : "https://dl.acm.org/doi/abs/10.1145/3593025"
 }
 
 ]
