@@ -193,6 +193,28 @@
 },
 
 {
+    "name"            : "GTAC2022_ePlaceRegConstr_Li",
+    "type"            : "conference",
+    "title"           : "A Comprehensive Region Constraint Support in Electrostatics-Based Non-linear Global Placement",
+    "authors"         : ["Li, Wuxi"],
+    "pub_in"          : "gtac",
+    "year"            : 2022,
+    "month"           : 11,
+    "hugo_suffix"     : "(**Best Paper Nomination**)",
+    "cv_suffix"       : "(\\textbf{Best Paper Nomination})"
+},
+
+{
+    "name"            : "GTAC2022_DiffTimer_Li",
+    "type"            : "conference",
+    "title"           : "Calibration-Based Differentiable Timing Optimization in Non-linear Global Placement",
+    "authors"         : ["Li, Wuxi"],
+    "pub_in"          : "gtac",
+    "year"            : 2022,
+    "month"           : 11
+},
+
+{
     "name"            : "DAC2023_Simulation_Guo",
     "type"            : "conference",
     "title"           : "General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism",
