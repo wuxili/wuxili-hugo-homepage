@@ -1,7 +1,7 @@
 +++
-prefix = "[C15]"
+prefix = "[C16]"
 title = "Calibration-Based Differentiable Timing Optimization in Non-linear Global Placement"
-date = 2024-03-01
+date = 2024-03-11
 authors = ["**Wuxi Li**", "Yuji Kukimoto", "Gregory Servel", "Ismail Bustany", "Mehrdad E. Dehkordi"]
 publication_types = [1]
 publication = "*ACM International Symposium on Physical Design (ISPD)*"

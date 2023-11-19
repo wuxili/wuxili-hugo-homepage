@@ -12,7 +12,8 @@
     "todaes" : ["ACM Transactions on Design Automation of Electronic Systems (TODAES)", "TODAES"],
     "ecst"   : ["ECS Transactions (ECST)", "ECST"],
     "gtac"   : ["AMD Global Technical Authors Conference (GTAC)", "GTAC"],
-    "trets"  : ["ACM Transactions on Reconfigurable Technology and Systems (TRETS)", "TRETS"]
+    "trets"  : ["ACM Transactions on Reconfigurable Technology and Systems (TRETS)", "TRETS"],
+    "mlcad"  : ["ACM/IEEE Workshop on Machine Learning for CAD (MLCAD)", "MLCAD"]
 },
 
 {
@@ -199,7 +200,10 @@
     "authors"         : ["Guo, Zizheng", "Zhang, Zuodong", "Jiang, Xun", "Li, Wuxi", "Lin, Yibo", "Wang, Runsheng", "Huang, Ru"],
     "pub_in"          : "dac",
     "year"            : 2023,
-    "month"           : 7
+    "month"           : 7,
+    "day"             : [9, 13],
+    "location"        : "San Francisco, CA",
+    "pub_link"        : "https://ieeexplore.ieee.org/document/10247907"
 },
 
 {
@@ -209,7 +213,21 @@
     "authors"         : ["Hu, Hailiang", "Fang, Donghao", "Li, Wuxi", "Yuan, Bo", "Hu, Jiang"],
     "pub_in"          : "iccad",
     "year"            : 2023,
-    "month"           : 11
+    "month"           : 11,
+    "location"        : "San Francisco, CA"
+},
+
+{
+    "name"            : "MLCAD_Contest_Bustany",
+    "type"            : "conference",
+    "title"           : "The 2023 MLCAD FPGA Macro Placement Benchmark Design Suite and Contest Results",
+    "authors"         : ["Bustany, Ismail", "Gasparyan, Grigor", "Gupta, Amit", "Kahng, Andrew B.", "Kalase, Meghraj", "Li, Wuxi", "Pramanik, Bodhisatta"],
+    "pub_in"          : "mlcad",
+    "year"            : 2023,
+    "month"           : 9,
+    "day"             : [11, 13],
+    "location"        : "Snowbird, UT",
+    "pub_link"        : "https://ieeexplore.ieee.org/abstract/document/10299868"
 },
 
 {
@@ -219,7 +237,9 @@
     "authors"         : ["Li, Wuxi", "Kukimoto, Yuji", "Servel, Gregory", "Bustany, Ismail", "Dehkordi, Mehrdad E."],
     "pub_in"          : "ispd",
     "year"            : 2024,
-    "month"           : 3
+    "month"           : 3,
+    "day"             : [11, 13],
+    "location"        : "Taipei, Taiwan"
 },
 
 {
