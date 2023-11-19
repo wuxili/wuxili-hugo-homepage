@@ -4,7 +4,7 @@
     "dac"    : ["ACM/IEEE Design Automation Conference (DAC)", "DAC"],
     "iccad"  : ["IEEE/ACM International Conference on Computer-Aided Design (ICCAD)", "ICCAD"],
     "aspdac" : ["IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)", "ASPDAC"],
-    "ispd"   : ["ACM International Symposium on Physical Design", "ISPD"],
+    "ispd"   : ["ACM International Symposium on Physical Design (ISPD)", "ISPD"],
     "fpga"   : ["ACM International Symposium on Field-Programmable Gate Arrays (FPGA)", "FPGA"],
     "islped" : ["IEEE International Symposium on Low Power Electronics and Design (ISLPED)", "ISLPED"],
     "iscas"  : ["IEEE International Symposium on Circuits and Systems (ISCAS)", "ISCAS"],
@@ -210,6 +210,16 @@
     "pub_in"          : "iccad",
     "year"            : 2023,
     "month"           : 11
+},
+
+{
+    "name"            : "ISPD2014_DiffTimingOpt_Li",
+    "type"            : "conference",
+    "title"           : "Calibration-Based Differentiable Timing Optimization in Non-linear Global Placement",
+    "authors"         : ["Li, Wuxi", "Kukimoto, Yuji", "Servel, Gregory", "Bustany, Ismail", "Dehkordi, Mehrdad E."],
+    "pub_in"          : "ispd",
+    "year"            : 2024,
+    "month"           : 3
 },
 
 {
