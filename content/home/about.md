@@ -53,7 +53,7 @@ weight = 5
 
 # About me
 
-I am a Senior Staff Software Engineer in the Vivado Implementation Team at <a href="https://www.amd.com/">AMD</a>/<a href="https://www.xilinx.com/">Xilinx</a>.
+I am a Principal Software Engineer in the Vivado Implementation Team at <a href="https://www.amd.com/">AMD</a>/<a href="https://www.xilinx.com/">Xilinx</a>.
 Prior to joining Xilinx, I received my Ph.D. degree in Electrical and Computer Engineering from the <a href="https://www.utexas.edu/">University of Texas at Austin</a> in 2019,
 supervised by Prof. <a href="http://users.ece.utexas.edu/~dpan/">David Z. Pan</a> in the <a href="https://www.cerc.utexas.edu/utda/">UTDA Laboratory</a>.
 I received my B.S. degree in Microelectronics from <a href="http://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2013.
