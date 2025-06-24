@@ -231,7 +231,7 @@
 },
 
 {
-    "name"            : "ISPD2014_DiffTimingOpt_Li",
+    "name"            : "ISPD2024_DiffTimingOpt_Li",
     "type"            : "conference",
     "title"           : "Calibration-Based Differentiable Timing Optimization in Non-linear Global Placement",
     "authors"         : ["Li, Wuxi", "Kukimoto, Yuji", "Servel, Gregory", "Bustany, Ismail", "Dehkordi, Mehrdad E."],
@@ -239,7 +239,34 @@
     "year"            : 2024,
     "month"           : 3,
     "day"             : [11, 13],
-    "location"        : "Taipei, Taiwan"
+    "location"        : "Taipei, Taiwan",
+    "pub_link"        : "https://dl.acm.org/doi/abs/10.1145/3626184.3633313"
+},
+
+{
+    "name"            : "ICCAD2024_HeteroExcept_Guo",
+    "type"            : "conference",
+    "title"           : "HeteroExcept: A CPU-GPU Heterogeneous Algorithm to Accelerate Exception-aware Static Timing Analysis",
+    "authors"         : ["Guo, Zizheng", "Zhang, Zuodong", "Li, Wuxi", "Huang, Tsung-Wei", "Shi, Xizhe", "Du, Yufan", "Lin, Yibo", "Wang, Runsheng", "Huang, Ru"],
+    "pub_in"          : "iccad",
+    "year"            : 2024,
+    "month"           : 10,
+    "day"             : [27, 31],
+    "location"        : "New York, NY",
+    "pub_link"        : "https://dl.acm.org/doi/abs/10.1145/3676536.3676651"
+},
+
+{
+    "name"            : "ICCAD2024_SysMix_Fang",
+    "type"            : "conference",
+    "title"           : "SysMix: Mixed-Size Placement for Systolic-Array-Based Hierarchical Designs",
+    "authors"         : ["Fang, Donghao", "Hu, Hailaing", "Li, Wuxi", "Yuan, Bo", "Hu, Jiang"],
+    "pub_in"          : "iccad",
+    "year"            : 2024,
+    "month"           : 10,
+    "day"             : [27, 31],
+    "location"        : "New York, NY",
+    "pub_link"        : "https://dl.acm.org/doi/abs/10.1145/3676536.3676690"
 },
 
 {
@@ -348,6 +375,17 @@
     "year"            : 2023,
     "month"           : 4,
     "pub_link"        : "https://dl.acm.org/doi/abs/10.1145/3593025"
+},
+
+{
+    "name"            : "TODAES_GP2DReg_Fang",
+    "type"            : "journal",
+    "title"           : "Global Placement Exploiting Soft 2D Regularity",
+    "authors"         : ["Fang, Donghao", "Zhang, Boyang", "Hu, Hailiang", "Li, Wuxi", "Yuan, Bo", "Hu, Jiang"],
+    "pub_in"          : "todaes",
+    "year"            : 2025,
+    "month"           : 1,
+    "pub_link"        : "https://dl.acm.org/doi/full/10.1145/3705729"
 }
 
 ]

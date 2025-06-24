@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.14)  8 AUG 2024 22:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.14)  24 JUN 2025 11:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -303,7 +303,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
 )
-(./doc/skills.tex) (./doc/award.tex [3])
+(./doc/skills.tex [3]) (./doc/award.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
  [4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 31.
@@ -328,10 +328,10 @@ usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
 local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv_address.pdf (4 pages, 108613 bytes).
+Output written on cv_address.pdf (4 pages, 109422 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
+ 104 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
